@@ -4,7 +4,7 @@ This project demonstrates how to dynamically change CSS properties of a `div` el
 
 ## How to View the Hosted Version
 
-To view the live version of the project, follow this link: [Hosted Project](https://your-username.github.io/your-repo-name/](https://kishlaychandan.github.io/DOM-Project1/)
+To view the live version of the project, follow this link: [Hosted Project](https://kishlaychandan.github.io/DOM-Project1/)
 
 ## Instructions
 
